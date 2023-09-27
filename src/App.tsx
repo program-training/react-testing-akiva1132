@@ -1,10 +1,9 @@
 import "./App.css";
-import { Example } from "./components/Example/Example";
-
+import { CrateQr } from "./components/CrateQr/CrateQr";
 function App() {
   return (
     <>
-      <Example />{" "}
+      <CrateQr />{" "}
     </>
   );
 }
