@@ -1,7 +1,5 @@
-import { FormEvent, useRef, useState } from "react";
+import { FormEvent, useState } from "react";
 import "./CrateQr.css";
-
-
 
 
 export function CrateQr() {
